@@ -9,7 +9,6 @@ A reusable, type-safe React hook for managing forms with support for validation 
 - **Form State Management**: Tracks values, errors, and touched states.
 - **Validation**: Supports Yup, Zod, or custom validation with onChange and onBlur options.
 - **Input Support**: Handles text, checkbox, radio, file, date, and number inputs.
-- **Flexible Initial Values**: Allows `null`, `undefined`, or empty strings without schema conflicts.
 - **Developer Control**: Offers methods to set values, errors, and reset forms programmatically.
 
 ## API Reference: `useForm` Hook
